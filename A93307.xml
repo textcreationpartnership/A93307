@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six speeches spoken in the Guild-Hall, London, upon Tuesday in the afternoon, Aprill 9 1644 printed in the same order they were spoken one after the other. By the Earle of Warwick, Sir Henry Vane, the Earle of Essex, the Earl of Pembroke, Colonell Hollis, and Master Recorder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93307</idno>
+            <idno type="STC">Wing S3922</idno>
+            <idno type="STC">Thomason E42_18</idno>
+            <idno type="STC">ESTC R23273</idno>
+            <idno type="EEBO-CITATION">99871950</idno>
+            <idno type="PROQUEST">99871950</idno>
+            <idno type="VID">154444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E42[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six speeches spoken in the Guild-Hall, London, upon Tuesday in the afternoon, Aprill 9 1644 printed in the same order they were spoken one after the other. By the Earle of Warwick, Sir Henry Vane, the Earle of Essex, the Earl of Pembroke, Colonell Hollis, and Master Recorder.</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+                  <author>Glynne, John, Sir, 1603-1666.</author>
+                  <author>Holles, Gervase, 1606-1675.</author>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Vane, Henry, Sir, 1612?-1662.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, for Stephen Bowtell, and are to bee sold at his shop at the signe of the Bible in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Right Honourable the Earle of Warwick his speech -- Sir Henry Vane his speech -- His excellency the Lord Generall his speech -- The Right Honourable the Earle of Pembrook his speech -- Collonell Hollis his speech -- Mr. Recorder his speech.</note>
+                  <note>Annotation on Thomason copy: "Aprill 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154444:1" rendition="simple:additions"/>
+            <p>SIX SPEECHES Spoken in The Guild-Hall, London, UPON Tueſday in the afternoon, <hi>Aprill</hi> 9 1644 Printed in the ſame order they were ſpoken one after the other.</p>
+            <p>BY The Earle of <hi>Warwick,</hi> Sir <hi>Henry Vane,</hi> The Earle of <hi>Eſſex,</hi> The Earle of <hi>Pembroke,</hi> Collonell <hi>Hollis,</hi> and Maſter <hi>Recorder.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> for <hi>Stephen Bowtell,</hi> and are to bee ſold at his ſhop at the ſigne of the Bible in Popes-head-Alley, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:154444:2"/>
+            <pb n="1" facs="tcp:154444:2"/>
+            <head>The Right honorable the Earle of <hi>Warwick</hi> his Speech.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords and Gentlemen, upon this happy victory that you have had, for which you have given God thankes this day, the Parliament underſtand, that the King and your enemies are preſently drawing into the Field, and they are drawing all their Forces into the Field to come againſt you; And the Parliament upon this have thought fit to draw all their Forces into the Field, that (with Gods bleſſing upon them) they may make an end of theſe unhappy di<g ref="char:EOLhyphen"/>ſtractions that are amongſtus; And they hope, that as you have beene very forward and active in this cauſe of God, and the pub<g ref="char:EOLhyphen"/>lique libertie, ſo you will not bee wanting now, in drawing your ſelves into the Field, with all our Armies, to defend Gods cauſe and the publique libertie; The reſt (my Lord) I ſhall leave to ſome worthy Gentlemen of the Houſe of Commons.</p>
+         </div>
+         <div type="speech">
+            <head>Sir <hi>Henry Vane</hi> his Speech.</head>
+            <p>MY Lord Maior, and worthy Aldermen, and the reſt of the Gentlemen of the Citie of <hi>London;</hi> The Houſes of Parlia<g ref="char:EOLhyphen"/>ment have ſeldome in matters of any great importance, but beene ready to communicate them unto your ſelves, as knowing how neerely you have intereſted your ſelves with them, in theſe publique dangers, and for the publique liberties of the Kingdome, and pre<g ref="char:EOLhyphen"/>ſervation of Religion; At this time above all the reſt, they have thought it neceſſary, to acquaint you with a reſolution which they have take, in regard that as they have had former experiences of your ready affections in all caſes of exigency to aſſiſt them, and in them
+<pb n="2" facs="tcp:154444:3"/>
+your ſelves, and the whole kingdome, ſo they doe not doubt but at this time, they ſhall bee prevented by your owne inclinations; con<g ref="char:EOLhyphen"/>ſidering that what they have now in hand, is, if it can bee poſſible, to put a ſpeedy iſſue to theſe unhappy, and to theſe lingring di<g ref="char:EOLhyphen"/>ſtractions that wee have had thus many yeares together; The oc<g ref="char:EOLhyphen"/>caſion of their reſolution is this, It having pleaſed God, by the late overthrow which hee gave the enemy by Sir <hi>William Wallers</hi> Forces, for to occaſion the enemy now to draw out all his Garri<g ref="char:EOLhyphen"/>ſons, to endeavour to take the Field with all the power hee can make, and if it bee poſſible to come ſuddenly upon thoſe Forces that ſo lately routed them; The Parliament thought it wiſedome and providence for to give order for all their Forces on the South ſide <hi>Trent,</hi> thoſe under my Lord <hi>Mancheſters</hi> aſſociation, thoſe like<g ref="char:EOLhyphen"/>wiſe of the ſeverall Garriſons that can bee ſpared, thoſe alſo of his Excellency my Lord Generalls Army that at this time is in a hope<g ref="char:EOLhyphen"/>full way of recruting, and likewiſe in the laſt place thoſe that they might expect from your owne ready affections; They have known your willingneſſe, they have knowne your watchfulneſſe at all times, for to comply with their occaſions, and with the neceſſities of the Commonwealth; at this time they doubt not, but you will bee the more encouraged to it, becauſe (through the bleſſing of God) it may put an iſſue unto this warre, at leaſt, it is that as is in the Parliaments deſire, and will bee in their endeavours they have therefore thought fit thus publiquely to recommend this buſineſſe to you, to quicken your affections, which are at all times very much ſtirred up for their ſervice, and they doubt not therefore will bee to this; They deſire you therefore, as knowing the ſeverall wayes, that you have among your ſelves, for ſubſcriptions, for contributions, for ſetting out thoſe that are of able bodies, and of good affections to the cauſe; knowing how much that this Citie hath ſent forth, and thoſe perſons, that have beene an honour to the Citie, in behaving themſelves with that gallantry, as that it may bee truely ſaid, That the enemy doth apprehend no Forces like unto thoſe that come out of this citie, being perſons, that for Religion for courage, for faithfulneſſe to the cauſe, and for pub<g ref="char:EOLhyphen"/>liqueneſſe of ſpirit to the Parliament, have ever ſhewed themſelves as firme, and as forward as any whatſoever; They doe not doubt but you will ſhew your ſelves ſo at this time alſo, and acquit your <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like men, which is that as I am for to recommend to you; There
+<pb n="3" facs="tcp:154444:3"/>
+are others that I doubt not will follow, will doe it with a great deale of more exactneſſe then I can do, but this is the ſubſtance as I can remember.</p>
+         </div>
+         <div type="speech">
+            <head>His Excellency the Lord Generall his Speech.</head>
+            <p>MY Lords and Gentlemen, you have here underſtood by a no<g ref="char:EOLhyphen"/>ble Lord my Lord Admirall, &amp; this Noble Gentleman of the Houſe of Commons, the deſire of both Houſes of Parliament, they have acquainted you too, what the Kings intention is, to draw all his Forces together, and what the Parliament doth intend in draw<g ref="char:EOLhyphen"/>ing all their Forces they can Southward, and what great victory God hath given Sir <hi>William Balfore</hi> and Sir <hi>William Waller,</hi> ſo I am onely to take this opportunitie to give you all acknowledgements and thankes for thoſe great aides that I have had alwayes to goe a<g ref="char:EOLhyphen"/>long with mee; for I muſt needs acknowledge, that moſt of the things that have beene done by mee, eſpecially the buſineſſe at <hi>Gloce<g ref="char:EOLhyphen"/>ſter,</hi> have beene done by your helpes; I ſhould deſire the like ſtill; and what ſhall come to mee I ſhall uſe with good reſpects, and ven<g ref="char:EOLhyphen"/>ture my life with them; and I ſhould have beene very glad that my Army had beene in that caſe, that I might not have needed to take any of you from your owne homes, knowing how much expence you have beene at already both in your eſtates, and blood, in the ſervice of Religion and this cauſe; But whatſoever Forces you pleaſe to draw out, I ſhall venture my life with them, and bee ready to give a quicke end to this cauſe:</p>
+            <p>To bee at their Rendezvouz the 19. of this moneth, about Ailesbury.</p>
+         </div>
+         <div type="speech">
+            <head>The Right Honorable the Earle of <hi>Pembrook</hi> his Speech.</head>
+            <p>GEntlemen, I am a very ill Speaker, but I thanke God, I am a very dutifull ſubject to God, and to the Kingdome, and in this
+<pb n="4" facs="tcp:154444:4"/>
+cauſe; though I am an ill Oratour, yet I have a good heart, and I cannot bee ſilent in ſuch a cauſe as this is: I ſhall not neede to trou<g ref="char:EOLhyphen"/>ble you with the effects of the cauſe, becauſe ſo many of my Lords, and Gentlemen have opened it you; but I ſhall not forget in the name of both Houſes to give you many thankes, both my Lord Major, and all the Citie, for all the love and affection you have ſhewed not onely now, but heretofore, and above all that ever any of your Anceſtors did; for though the Citie of <hi>London</hi> have ſhewed themſelves with abundance of love to the Kingdome, and have been inſtruments of ſaving the cauſe, yet they have never gained ſo much honour, as in theſe times; for I muſt needs ſay, That under God it is the love and fidelitie of this Citie hath ſaved all; and therefore I may deſire you for your owne honours, that you would ſo ſe<g ref="char:EOLhyphen"/>cond it now in theſe times, that God hath given you ſo faire an op<g ref="char:EOLhyphen"/>portunitie for it, I thinke you have little to doe, but to goe on in it; And you ſee what accidents had beene like to fall out (as my Lord Generall told you) for want of recruting his Army hereto<g ref="char:EOLhyphen"/>fore; I ſpeake not this, to ſhew that it is any fault of yours, but let us not loſe this opportunitie; and let theſe experiences make us know to helpe our failings hereafter; For (as my Lord Generall hath told you) if my Lord Generalls Army had beene ready wee might have put an end to this buſineſſe, but I doubt not, but your care, and your love, and your fidelitie will make that iſſue, that will quit the Kingdome of all thoſe Villaines that have beene the cauſe of all this.</p>
+         </div>
+         <div type="speech">
+            <head>Collonell <hi>Hollis</hi> his Speech.</head>
+            <p>MY Lord Major and Citizens of this famous Citie, whith have done ſo famous things for Religion, for the Parliament, for the whole Kingdome, truely there needs not many words to encou<g ref="char:EOLhyphen"/>rage you, your owne affections prevent all that can bee ſaid; you have beene ſufficiently told the occaſion of this meeting with you by theſe Committees, which are ſent from the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment; your owne wiſedomes doth ſufficiently informe you of the neceſſitie of doing that which is now deſired of you by theſe Lords here, and theſe Gentlemen that have ſpoken before; It hath pleaſed
+<pb n="5" facs="tcp:154444:4"/>
+God to give us a very great advantage by that happy ſucceſſe which God gave to the endeavours of that gallant. Gentleman Sir <hi>William Balſore,</hi> and that other gallant Gentleman Sir <hi>William Waller;</hi> It be<g ref="char:EOLhyphen"/>hooves us to improve this occaſion; And it hath beene the wiſe<g ref="char:EOLhyphen"/>dome of all States, as it is the dutie of all Chriſtians, to meete Gods bleſſings, and to goe along with them; But truely beſides this, there is a neceſſitie lies upon you too, for there is as great a wiſe<g ref="char:EOLhyphen"/>dome to meet the enemy and to prevent him in his deſignes; hee is now drawing and aſſembling all his Forces together, and therefore you are not onely invited unto it by ſuch reaſons as wiſedome may ſuggeſt unto you, but by ſuch forcible arguments as neceſſitie impoſes to you; This is neceſſary for you to doe for your preſer<g ref="char:EOLhyphen"/>vation; My Lord Generall, (who hath ſpoken to you) hee hath told you how ready, and how willing hee is to engage himſelfe, to adventure his perſon, his life, his fortunes, all that hee hath with you; he hath had experience of your fidelitie before, and hath re<g ref="char:EOLhyphen"/>ceived the fruits of it ſeverall times, and that makes him (I am ſure) the more cheerefully offer himſelfe to you againe; and wee all know your affections to him to bee ſuch, as you will not ſuffer him to goe into the field, but as the Generall of the Forces raiſed by the Parliament for the defence of Religion and Libertie; If his Army had been recruted, this had not beene needfull unto you at this time, but it hath pleaſed God ſo, that other occaſions have diver<g ref="char:EOLhyphen"/>ted it, that his Army not being recruted, for then hee would have beene willing to have ſpared you; Hee knowes how much it con<g ref="char:EOLhyphen"/>cernes the wealth and trade of this Citie, that you ſhould keepe at home to follow your occaſions here, and that your purſes (as they have alwayes beene) ſhould have beene open to ſupply the wants of the Army, hee would have ſpared you; but now the Parliament throw themſelves on your affections, and deſire you to offer your ſelves as one man, for it is to no purpoſe to goe by little and little, it is but as a little water throwne on the fire that doth but enrage it, and will not quench it: But now if all will joyne their purſes, their perſons, and their prayers together, I doubt not but we ſhall through Gods bleſſing ſee an end of theſe miſerable and diſtracted times; And the Lord put it into your hearts to doe that which is fit for you to doe, which wee know you will doe.</p>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:154444:5"/>
+            <head>Mr. Recorder his Speech.</head>
+            <p>GEntlemen, I am commanded by theſe Lords and Gentlemen (that are come from both Houſes of Parliament, to preſent what already they have ſpoken) to adde one word more: Firſt, you have had notice of the great bleſſing that God Almighty hath been pleaſed to beſtow on us, by the late victory, and you have now the experience of the care of both Houſes of Parliament to aſcribe that bleſſing unto God Almighty, by ſetting apart this day, for to give him thanks for it; and they have thought it a day of opportunity, when wee all joyne in Prayer and Thankſgiving unto God Almigh<g ref="char:EOLhyphen"/>ty, that wee ſhould now againe meet at this time to improve that bleſſing, and therefore it hath been ſet out unto you, that you would bee pleaſed, in purſuance of what both Houſes of Parliament have reſolved, and my Lord Generall, to draw all the Forces that they can get together unto a generall Rendezvouz about <hi>Ailesbury,</hi> the nineteenth of this moneth, all the Forces have directions to draw together; And now they do apply themſelves unto you, (having had experience of your great affections, and God having wrought ſo much by the Forces, that you have ſent abroad) to deſire tha you would now at this time, (which wee hope will give an iſſue to all our troubles) ſhow your affections by ſending out as many For<g ref="char:EOLhyphen"/>ces as you can, to joyn in this work, to make a ſpeedy end of it; Onely I ſhall adde this word to it; my Lord Generall is recruting his Army, both Houſes of Parliament have put him in a way, and now hee deſires your aſſiſtance and concurrence onely to helpe him, with the bodies of men, that every man in his particular worke what hee can, that that Army may bee raiſed, as ſhortly as poſſibly may bee; There ſhall bee no want in both Houſes of Parliament, or my Lord Generall, and they are all confident, there ſhall bee no want in you; and that is that they have commanded mee to adde, and God put it into your hearts to doe what ſhall bee beſt unto him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
